@@ -9,12 +9,12 @@
       "eliteCount": 1
     },
     "tech": {
-      "timeoutFix": 15000,
-      "countFix": 100,
+      "timeoutFix": 5000,
+      "countFix": 50,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
-      "maxTimer": 80,
-      "fixCoeff": 128.8
+      "maxTimer": 60,
+      "fixCoeff": 88.8
     },
     "titans": [
       4000,
@@ -42,7 +42,7 @@
   {
     "id": 2,
     "algo": {
-      "countTest": 3,
+      "countTest": 5,
       "populationSize": 10,
       "generations": 11,
       "mutationRate": 0.1,
@@ -70,6 +70,7 @@
       4021,
       4022,
       4023,
+      4024,
       4030,
       4031,
       4032,
@@ -110,6 +111,7 @@
       4021,
       4022,
       4023,
+      4024,
       4030,
       4031,
       4032,
@@ -152,6 +154,7 @@
       4021,
       4022,
       4023,
+      4024,
       4030,
       4031,
       4032,
