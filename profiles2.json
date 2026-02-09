@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "algo": {
+      "countTest": 3,
+      "populationSize": 10,
+      "generations": 10,
+      "mutationRate": 0.1,
+      "eliteCount": 1
+    },
+    "tech": {
+      "timeoutFix": 5000,
+      "countFix": 30,
+      "maxTitanPower": 30000,
+      "minTitanPower": 5000,
+      "maxTimer": 25,
+      "fixCoeff": 58.8
+    },
+    "titans": [
+      4000,
+      4001,
+      4002,
+      4003,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014,
+      4020,
+      4021,
+      4022,
+      4023,
+      4024,
+      4033,
+      4042,
+      4043
+    ]
+  },
+  {
+    "id": 2,
+    "algo": {
+      "countTest": 5,
+      "populationSize": 10,
+      "generations": 20,
+      "mutationRate": 0.1,
+      "eliteCount": 2
+    },
+    "tech": {
+      "timeoutFix": 10000,
+      "countFix": 50,
+      "maxTitanPower": 30000,
+      "minTitanPower": 5000,
+      "maxTimer": 60,
+      "fixCoeff": 98.8
+    },
+    "titans": [
+      4000,
+      4001,
+      4002,
+      4003,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014,
+      4020,
+      4021,
+      4022,
+      4023,
+      4024,
+      4030,
+      4031,
+      4032,
+      4033,
+      4040,
+      4041,
+      4042,
+      4043
+    ]
+  },
+  {
+    "algo": {
+      "countTest": 15,
+      "populationSize": 12,
+      "generations": 50,
+      "mutationRate": 0.1,
+      "eliteCount": 3
+    },
+    "tech": {
+      "timeoutFix": 15000,
+      "countFix": 150,
+      "maxTitanPower": 30000,
+      "minTitanPower": 5000,
+      "maxTimer": 80,
+      "fixCoeff": 128.8
+    },
+    "titans": [
+      4000,
+      4001,
+      4002,
+      4003,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014,
+      4020,
+      4021,
+      4022,
+      4023,
+      4024,
+      4030,
+      4031,
+      4032,
+      4033,
+      4040,
+      4041,
+      4042,
+      4043
+    ],
+    "id": 3
+  },
+  {
+    "id": 4,
+    "algo": {
+      "countTest": 20,
+      "populationSize": 16,
+      "generations": 150,
+      "mutationRate": 0.08,
+      "eliteCount": 4
+    },
+    "tech": {
+      "timeoutFix": 50000,
+      "countFix": 400,
+      "maxTitanPower": 30000,
+      "minTitanPower": 5000,
+      "maxTimer": 120,
+      "fixCoeff": 168.8
+    },
+    "titans": [
+      4000,
+      4001,
+      4002,
+      4003,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014,
+      4020,
+      4021,
+      4022,
+      4023,
+      4024,
+      4030,
+      4031,
+      4032,
+      4033,
+      4040,
+      4041,
+      4042,
+      4043
+    ]
+  }
+]
