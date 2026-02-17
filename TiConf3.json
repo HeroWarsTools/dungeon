@@ -1,0 +1,19 @@
+{
+  "name": "HP025-Faster",
+  "weights": {
+    "hp": 1,
+    "energy": 0.25,
+    "buff": 1,
+    "deadTitan": 20
+  },
+  "thresholds": {
+    "profile4": 91,
+    "profile3": 61,
+    "profile2": 31,
+    "baseProfile": 1
+  },
+  "startStrategy": {
+    "startProfile": 4,
+    "stabilityCount": 30
+  }
+}
