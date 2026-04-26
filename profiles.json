@@ -15,9 +15,16 @@
       "hp": 13,
       "energy": 1
     },
+    "logic": {
+      "scoringMethod": "weighted",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    },
     "tech": {
       "timeoutFix": 5000,
       "countFix": 30,
+      "monoMultiplier": 1,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 25,
@@ -43,13 +50,7 @@
       4042,
       4043
     ],
-    "id": 1,
-    "logic": {
-      "scoringMethod": "weighted",
-      "zeroDeaths": true,
-      "antiOneshot": false,
-      "deepGA": false
-    }
+    "id": 1
   },
   {
     "algo": {
@@ -67,9 +68,16 @@
       "hp": 20,
       "energy": 1
     },
+    "logic": {
+      "scoringMethod": "weighted",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    },
     "tech": {
       "timeoutFix": 10000,
       "countFix": 50,
+      "monoMultiplier": 2,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 60,
@@ -100,13 +108,7 @@
       4042,
       4043
     ],
-    "id": 2,
-    "logic": {
-      "scoringMethod": "weighted",
-      "zeroDeaths": true,
-      "antiOneshot": false,
-      "deepGA": false
-    }
+    "id": 2
   },
   {
     "algo": {
@@ -133,6 +135,7 @@
     "tech": {
       "timeoutFix": 20000,
       "countFix": 150,
+      "monoMultiplier": 3,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 80,
@@ -149,13 +152,16 @@
       4020,
       4021,
       4022,
+      4023,
+      4024,
       4030,
       4031,
       4032,
       4033,
       4040,
       4041,
-      4042
+      4042,
+      4043
     ],
     "id": 3
   },
@@ -184,6 +190,7 @@
     "tech": {
       "timeoutFix": 40000,
       "countFix": 300,
+      "monoMultiplier": 4,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 100,
@@ -193,20 +200,26 @@
       4000,
       4001,
       4002,
+      4003,
+      4004,
       4010,
       4011,
       4012,
       4013,
+      4014,
       4020,
       4021,
       4022,
+      4023,
+      4024,
       4030,
       4031,
       4032,
       4033,
       4040,
       4041,
-      4042
+      4042,
+      4043
     ],
     "id": 4
   }
