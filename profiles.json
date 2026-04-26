@@ -112,7 +112,7 @@
   },
   {
     "algo": {
-      "countTest": 15,
+      "countTest": 10,
       "populationSize": 12,
       "generations": 50,
       "mutationRate": 0.09,
@@ -123,7 +123,7 @@
       "simRank": 54
     },
     "weights": {
-      "hp": 25,
+      "hp": 40,
       "energy": 1
     },
     "logic": {
@@ -134,7 +134,7 @@
     },
     "tech": {
       "timeoutFix": 20000,
-      "countFix": 120,
+      "countFix": 100,
       "monoMultiplier": 3,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
@@ -178,7 +178,7 @@
       "simRank": 57
     },
     "weights": {
-      "hp": 50,
+      "hp": 80,
       "energy": 1
     },
     "logic": {
