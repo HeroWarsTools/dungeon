@@ -189,7 +189,7 @@
     },
     "tech": {
       "timeoutFix": 40000,
-      "countFix": 300,
+      "countFix": 250,
       "monoMultiplier": 4,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
