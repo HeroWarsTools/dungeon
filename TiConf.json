@@ -1,0 +1,19 @@
+{
+  "name": "Default",
+  "weights": {
+    "hp": 1,
+    "energy": 0.3,
+    "buff": 1,
+    "deadTitan": 20
+  },
+  "thresholds": {
+    "profile4": 105,
+    "profile3": 85,
+    "profile2": 55,
+    "baseProfile": 1
+  },
+  "startStrategy": {
+    "startProfile": 3,
+    "stabilityCount": 10
+  }
+}
