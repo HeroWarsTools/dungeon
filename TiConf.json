@@ -2,12 +2,12 @@
   "name": "fast start 0.1.7.5",
   "weights": {
     "hp": 1,
-    "energy": 0.15,
+    "energy": 0.12,
     "buff": 1,
     "deadTitan": 25
   },
   "thresholds": {
-    "profile4": 105,
+    "profile4": 115,
     "profile3": 85,
     "profile2": 55,
     "baseProfile": 1
