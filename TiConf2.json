@@ -1,0 +1,19 @@
+{
+  "name": "fast run 0.1.7.3",
+  "weights": {
+    "hp": 1,
+    "energy": 0.08,
+    "buff": 1,
+    "deadTitan": 30
+  },
+  "thresholds": {
+    "profile4": 120,
+    "profile3": 90,
+    "profile2": 50,
+    "baseProfile": 1
+  },
+  "startStrategy": {
+    "startProfile": 3,
+    "stabilityCount": 4
+  }
+}
