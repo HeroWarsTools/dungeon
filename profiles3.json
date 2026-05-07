@@ -69,7 +69,7 @@
       "energy": 1
     },
     "logic": {
-      "scoringMethod": "weighted",
+      "scoringMethod": "strict",
       "zeroDeaths": true,
       "antiOneshot": false,
       "deepGA": false
