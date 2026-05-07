@@ -1,1 +1,666 @@
-
+{
+  "profiles": {
+    "profile1": {
+      "timeoutFix": 10000,
+      "countFix": 90,
+      "fixedTimerValue": 138.8,
+      "maxTimerValue": 50,
+      "ga_populationSize": 13,
+      "ga_generations": 70,
+      "ga_mutationRate": 0.03,
+      "ga_eliteCount": 2,
+      "sim_countTestBattle": 8,
+      "sim_countAutoBattle": 10,
+      "decision_hpWeight": 20,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile2": {
+      "timeoutFix": 20000,
+      "countFix": 150,
+      "fixedTimerValue": 158.8,
+      "maxTimerValue": 70,
+      "ga_populationSize": 15,
+      "ga_generations": 115,
+      "ga_mutationRate": 0.03,
+      "ga_eliteCount": 2,
+      "sim_countTestBattle": 10,
+      "sim_countAutoBattle": 14,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile3": {
+      "timeoutFix": 20000,
+      "countFix": 150,
+      "fixedTimerValue": 158.8,
+      "maxTimerValue": 90,
+      "ga_populationSize": 15,
+      "ga_generations": 150,
+      "ga_mutationRate": 0.04,
+      "ga_eliteCount": 3,
+      "sim_countTestBattle": 10,
+      "sim_countAutoBattle": 20,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile4": {
+      "timeoutFix": 25000,
+      "countFix": 250,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 100,
+      "ga_populationSize": 17,
+      "ga_generations": 200,
+      "ga_mutationRate": 0.04,
+      "ga_eliteCount": 4,
+      "sim_countTestBattle": 25,
+      "sim_countAutoBattle": 20,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile5": {
+      "timeoutFix": 35000,
+      "countFix": 300,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 120,
+      "ga_populationSize": 18,
+      "ga_generations": 220,
+      "ga_mutationRate": 0.05,
+      "ga_eliteCount": 5,
+      "sim_countTestBattle": 30,
+      "sim_countAutoBattle": 25,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile6": {
+      "timeoutFix": 35000,
+      "countFix": 300,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 150,
+      "ga_populationSize": 18,
+      "ga_generations": 220,
+      "ga_mutationRate": 0.05,
+      "ga_eliteCount": 5,
+      "sim_countTestBattle": 30,
+      "sim_countAutoBattle": 25,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile7": {
+      "timeoutFix": 60000,
+      "countFix": 600,
+      "ga_populationSize": 21,
+      "ga_generations": 220,
+      "ga_mutationRate": 0.05,
+      "ga_eliteCount": 7,
+      "sim_countTestBattle": 50,
+      "sim_countAutoBattle": 40,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    },
+    "profile8": {
+      "timeoutFix": 90000,
+      "countFix": 1000,
+      "ga_populationSize": 22,
+      "ga_generations": 250,
+      "ga_mutationRate": 0.06,
+      "ga_eliteCount": 8,
+      "sim_countTestBattle": 70,
+      "sim_countAutoBattle": 50,
+      "decision_hpWeight": 25,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ]
+    }
+  },
+  "lastUsed": {
+    "timeoutFix": 10000,
+    "countFix": 90,
+    "fixedTimerValue": 138.8,
+    "maxTimerValue": 50,
+    "ga_populationSize": 13,
+    "ga_generations": 70,
+    "ga_mutationRate": 0.03,
+    "ga_eliteCount": 2,
+    "sim_countTestBattle": 8,
+    "sim_countAutoBattle": 10,
+    "decision_hpWeight": 20,
+    "decision_energyWeight": 1,
+    "titaniteTiers": [
+      {
+        "maxTitanite": 250,
+        "score": 10
+      },
+      {
+        "maxTitanite": 2800,
+        "score": 15
+      },
+      {
+        "maxTitanite": 3200,
+        "score": 40
+      },
+      {
+        "maxTitanite": 3800,
+        "score": 60
+      },
+      {
+        "maxTitanite": 4300,
+        "score": 80
+      },
+      {
+        "maxTitanite": 4800,
+        "score": 100
+      }
+    ],
+    "profileThresholds": [
+      {
+        "maxScore": 20,
+        "profile": 1
+      },
+      {
+        "maxScore": 40,
+        "profile": 2
+      },
+      {
+        "maxScore": 60,
+        "profile": 3
+      },
+      {
+        "maxScore": 80,
+        "profile": 4
+      },
+      {
+        "maxScore": 100,
+        "profile": 5
+      },
+      {
+        "maxScore": 150,
+        "profile": 6
+      },
+      {
+        "maxScore": 200,
+        "profile": 7
+      },
+      {
+        "maxScore": 999,
+        "profile": 8
+      }
+    ]
+  }
+}
