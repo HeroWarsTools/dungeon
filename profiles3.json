@@ -15,9 +15,16 @@
       "hp": 13,
       "energy": 1
     },
+    "logic": {
+      "scoringMethod": "weighted",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    },
     "tech": {
       "timeoutFix": 5000,
       "countFix": 30,
+      "monoMultiplier": 1,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 25,
@@ -61,9 +68,16 @@
       "hp": 20,
       "energy": 1
     },
+    "logic": {
+      "scoringMethod": "weighted",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    },
     "tech": {
       "timeoutFix": 10000,
-      "countFix": 50,
+      "countFix": 40,
+      "monoMultiplier": 3,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 60,
@@ -112,9 +126,16 @@
       "hp": 25,
       "energy": 1
     },
+    "logic": {
+      "scoringMethod": "strict",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    },
     "tech": {
       "timeoutFix": 20000,
       "countFix": 150,
+      "monoMultiplier": 4,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 80,
@@ -149,35 +170,40 @@
   },
   {
     "algo": {
-      "countTest": 20,
-      "populationSize": 17,
-      "generations": 150,
-      "mutationRate": 0.08,
+      "countTest": 15,
+      "populationSize": 15,
+      "generations": 50,
+      "mutationRate": 0.09,
       "eliteCount": 4
     },
     "threshold": {
-      "simSamples": 200,
-      "simRank": 190
+      "simSamples": 60,
+      "simRank": 57
     },
     "weights": {
-      "hp": 30,
+      "hp": 50,
       "energy": 1
     },
+    "logic": {
+      "scoringMethod": "strict",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    },
     "tech": {
-      "timeoutFix": 50000,
-      "countFix": 400,
+      "timeoutFix": 35000,
+      "countFix": 250,
+      "monoMultiplier": 6,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
-      "maxTimer": 120,
-      "fixCoeff": 168.8
+      "maxTimer": 100,
+      "fixCoeff": 128.8
     },
     "titans": [
-      4000,
       4001,
       4002,
       4003,
       4004,
-      4010,
       4011,
       4012,
       4013,
