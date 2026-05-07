@@ -129,7 +129,7 @@
     "logic": {
       "scoringMethod": "strict",
       "zeroDeaths": true,
-      "antiOneshot": false,
+      "antiOneshot": true,
       "deepGA": false
     },
     "tech": {
