@@ -307,7 +307,7 @@
       "ga_eliteCount": 5,
       "sim_countTestBattle": 30,
       "sim_countAutoBattle": 25,
-      "decision_hpWeight": 25,
+      "decision_hpWeight": 45,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -381,7 +381,7 @@
       "ga_eliteCount": 5,
       "sim_countTestBattle": 30,
       "sim_countAutoBattle": 25,
-      "decision_hpWeight": 25,
+      "decision_hpWeight": 55,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -453,7 +453,7 @@
       "ga_eliteCount": 7,
       "sim_countTestBattle": 50,
       "sim_countAutoBattle": 40,
-      "decision_hpWeight": 25,
+      "decision_hpWeight": 55,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -525,7 +525,7 @@
       "ga_eliteCount": 8,
       "sim_countTestBattle": 70,
       "sim_countAutoBattle": 50,
-      "decision_hpWeight": 25,
+      "decision_hpWeight": 75,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -600,7 +600,7 @@
     "ga_eliteCount": 2,
     "sim_countTestBattle": 8,
     "sim_countAutoBattle": 10,
-    "decision_hpWeight": 20,
+    "decision_hpWeight": 80,
     "decision_energyWeight": 1,
     "titaniteTiers": [
       {
