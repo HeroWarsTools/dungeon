@@ -178,14 +178,14 @@
   "profiles": {
     "profile1": {
       "timeoutFix": 10000,
-      "countFix": 60,
+      "countFix": 50,
       "fixedTimerValue": 138.8,
       "maxTimerValue": 50,
       "ga_populationSize": 12,
-      "ga_generations": 40,
+      "ga_generations": 30,
       "ga_mutationRate": 0.1,
       "ga_eliteCount": 2,
-      "sim_countTestBattle": 8,
+      "sim_countTestBattle": 5,
       "sim_countAutoBattle": 10,
       "decision_hpWeight": 20,
       "decision_energyWeight": 1,
@@ -358,12 +358,12 @@
       "fixedTimerValue": 158.8,
       "maxTimerValue": 70,
       "ga_populationSize": 15,
-      "ga_generations": 75,
+      "ga_generations": 50,
       "ga_mutationRate": 0.1,
       "ga_eliteCount": 2,
       "sim_countTestBattle": 10,
       "sim_countAutoBattle": 14,
-      "decision_hpWeight": 25,
+      "decision_hpWeight": 30,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -535,11 +535,11 @@
       "maxTimerValue": 90,
       "ga_populationSize": 15,
       "ga_generations": 150,
-      "ga_mutationRate": 0.04,
+      "ga_mutationRate": 0.08,
       "ga_eliteCount": 3,
       "sim_countTestBattle": 10,
       "sim_countAutoBattle": 20,
-      "decision_hpWeight": 30,
+      "decision_hpWeight": 40,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -711,11 +711,11 @@
       "maxTimerValue": 100,
       "ga_populationSize": 17,
       "ga_generations": 200,
-      "ga_mutationRate": 0.04,
+      "ga_mutationRate": 0.08,
       "ga_eliteCount": 4,
       "sim_countTestBattle": 25,
       "sim_countAutoBattle": 20,
-      "decision_hpWeight": 60,
+      "decision_hpWeight": 70,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -887,11 +887,11 @@
       "maxTimerValue": 120,
       "ga_populationSize": 18,
       "ga_generations": 220,
-      "ga_mutationRate": 0.05,
+      "ga_mutationRate": 0.09,
       "ga_eliteCount": 5,
       "sim_countTestBattle": 30,
       "sim_countAutoBattle": 25,
-      "decision_hpWeight": 75,
+      "decision_hpWeight": 85,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -1063,11 +1063,11 @@
       "maxTimerValue": 130,
       "ga_populationSize": 18,
       "ga_generations": 220,
-      "ga_mutationRate": 0.05,
+      "ga_mutationRate": 0.09,
       "ga_eliteCount": 5,
       "sim_countTestBattle": 30,
       "sim_countAutoBattle": 25,
-      "decision_hpWeight": 75,
+      "decision_hpWeight": 85,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -1239,11 +1239,11 @@
       "maxTimerValue": 150,
       "ga_populationSize": 21,
       "ga_generations": 220,
-      "ga_mutationRate": 0.05,
+      "ga_mutationRate": 0.09,
       "ga_eliteCount": 7,
       "sim_countTestBattle": 50,
       "sim_countAutoBattle": 40,
-      "decision_hpWeight": 85,
+      "decision_hpWeight": 100,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -1415,11 +1415,11 @@
       "maxTimerValue": 160,
       "ga_populationSize": 22,
       "ga_generations": 250,
-      "ga_mutationRate": 0.06,
+      "ga_mutationRate": 0.08,
       "ga_eliteCount": 8,
       "sim_countTestBattle": 70,
       "sim_countAutoBattle": 50,
-      "decision_hpWeight": 110,
+      "decision_hpWeight": 150,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
