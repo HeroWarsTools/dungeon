@@ -1,1 +1,1588 @@
-
+{
+  "config": {
+    "timeoutFix": 20000,
+    "countFix": 150,
+    "fixedTimerValue": 158.8,
+    "maxTimerValue": 90,
+    "ga_populationSize": 15,
+    "ga_generations": 150,
+    "ga_mutationRate": 0.04,
+    "ga_eliteCount": 3,
+    "sim_countTestBattle": 10,
+    "sim_countAutoBattle": 20,
+    "decision_hpWeight": 25,
+    "decision_energyWeight": 1,
+    "titaniteTiers": [
+      {
+        "maxTitanite": 250,
+        "score": 10
+      },
+      {
+        "maxTitanite": 2800,
+        "score": 15
+      },
+      {
+        "maxTitanite": 3200,
+        "score": 40
+      },
+      {
+        "maxTitanite": 3800,
+        "score": 60
+      },
+      {
+        "maxTitanite": 4300,
+        "score": 80
+      },
+      {
+        "maxTitanite": 4800,
+        "score": 100
+      }
+    ],
+    "profileThresholds": [
+      {
+        "maxScore": 20,
+        "profile": 1
+      },
+      {
+        "maxScore": 40,
+        "profile": 2
+      },
+      {
+        "maxScore": 60,
+        "profile": 3
+      },
+      {
+        "maxScore": 80,
+        "profile": 4
+      },
+      {
+        "maxScore": 100,
+        "profile": 5
+      },
+      {
+        "maxScore": 150,
+        "profile": 6
+      },
+      {
+        "maxScore": 200,
+        "profile": 7
+      },
+      {
+        "maxScore": 999,
+        "profile": 8
+      }
+    ],
+    "titanWeights": {
+      "4000": {
+        "hp": 1.5,
+        "energy": 1.5
+      },
+      "4001": {
+        "hp": 1,
+        "energy": 1.5
+      },
+      "4002": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4003": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4004": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4010": {
+        "hp": 1.5,
+        "energy": 1.2
+      },
+      "4011": {
+        "hp": 1.5,
+        "energy": 1
+      },
+      "4012": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4013": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4014": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4020": {
+        "hp": 1.2,
+        "energy": 1.2
+      },
+      "4021": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4022": {
+        "hp": 1,
+        "energy": 1.9
+      },
+      "4023": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4024": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4030": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4031": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4032": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4033": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4034": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4040": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4041": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4042": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4043": {
+        "hp": 1,
+        "energy": 1
+      },
+      "4044": {
+        "hp": 1,
+        "energy": 1
+      }
+    }
+  },
+  "profiles": {
+    "profile1": {
+      "timeoutFix": 10000,
+      "countFix": 50,
+      "fixedTimerValue": 138.8,
+      "maxTimerValue": 50,
+      "ga_populationSize": 12,
+      "ga_generations": 30,
+      "ga_mutationRate": 0.1,
+      "ga_eliteCount": 2,
+      "sim_countTestBattle": 5,
+      "sim_countAutoBattle": 10,
+      "decision_hpWeight": 20,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 1.6,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 1.2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 1.6,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 1.4,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.5,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.2,
+          "energy": 1.5
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4032": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4042": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile2": {
+      "timeoutFix": 20000,
+      "countFix": 100,
+      "fixedTimerValue": 158.8,
+      "maxTimerValue": 70,
+      "ga_populationSize": 15,
+      "ga_generations": 50,
+      "ga_mutationRate": 0.1,
+      "ga_eliteCount": 2,
+      "sim_countTestBattle": 10,
+      "sim_countAutoBattle": 14,
+      "decision_hpWeight": 30,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 1.8,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 1.2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 1.6,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 1.4,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.2,
+          "energy": 1.5
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4032": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4042": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile3": {
+      "timeoutFix": 20000,
+      "countFix": 150,
+      "fixedTimerValue": 158.8,
+      "maxTimerValue": 90,
+      "ga_populationSize": 15,
+      "ga_generations": 150,
+      "ga_mutationRate": 0.08,
+      "ga_eliteCount": 3,
+      "sim_countTestBattle": 10,
+      "sim_countAutoBattle": 20,
+      "decision_hpWeight": 40,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 1.8,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 1.2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 1.6,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 1.4,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.2,
+          "energy": 1.5
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4032": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4042": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile4": {
+      "timeoutFix": 25000,
+      "countFix": 250,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 100,
+      "ga_populationSize": 17,
+      "ga_generations": 200,
+      "ga_mutationRate": 0.08,
+      "ga_eliteCount": 4,
+      "sim_countTestBattle": 25,
+      "sim_countAutoBattle": 20,
+      "decision_hpWeight": 70,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 1.8,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 1.2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 1.6,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 1.4,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.2,
+          "energy": 1.5
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4032": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4042": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile5": {
+      "timeoutFix": 35000,
+      "countFix": 300,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 120,
+      "ga_populationSize": 18,
+      "ga_generations": 200,
+      "ga_mutationRate": 0.09,
+      "ga_eliteCount": 5,
+      "sim_countTestBattle": 30,
+      "sim_countAutoBattle": 25,
+      "decision_hpWeight": 85,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 1.8,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 1.2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 1.6,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 1.4,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.2,
+          "energy": 1.5
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4032": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4042": {
+          "hp": 0.7,
+          "energy": 0.7
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile6": {
+      "timeoutFix": 40000,
+      "countFix": 400,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 130,
+      "ga_populationSize": 18,
+      "ga_generations": 220,
+      "ga_mutationRate": 0.09,
+      "ga_eliteCount": 6,
+      "sim_countTestBattle": 30,
+      "sim_countAutoBattle": 25,
+      "decision_hpWeight": 85,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 2,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 1.2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 2,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 1.4,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.5,
+          "energy": 1.8
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 0.9,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.6,
+          "energy": 0.6
+        },
+        "4032": {
+          "hp": 0.5,
+          "energy": 0.2
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 0.9,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.6,
+          "energy": 0.6
+        },
+        "4042": {
+          "hp": 0.5,
+          "energy": 0.2
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile7": {
+      "timeoutFix": 60000,
+      "countFix": 600,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 150,
+      "ga_populationSize": 21,
+      "ga_generations": 250,
+      "ga_mutationRate": 0.09,
+      "ga_eliteCount": 7,
+      "sim_countTestBattle": 50,
+      "sim_countAutoBattle": 40,
+      "decision_hpWeight": 100,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 2.5,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 2.5,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 2,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1.5,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.5,
+          "energy": 1.8
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 0.9,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.6,
+          "energy": 0.6
+        },
+        "4032": {
+          "hp": 0.5,
+          "energy": 0.2
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 0.9,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.6,
+          "energy": 0.6
+        },
+        "4042": {
+          "hp": 0.5,
+          "energy": 0.2
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    },
+    "profile8": {
+      "timeoutFix": 90000,
+      "countFix": 1000,
+      "fixedTimerValue": 168.8,
+      "maxTimerValue": 160,
+      "ga_populationSize": 22,
+      "ga_generations": 300,
+      "ga_mutationRate": 0.08,
+      "ga_eliteCount": 8,
+      "sim_countTestBattle": 70,
+      "sim_countAutoBattle": 50,
+      "decision_hpWeight": 150,
+      "decision_energyWeight": 1,
+      "titaniteTiers": [
+        {
+          "maxTitanite": 250,
+          "score": 10
+        },
+        {
+          "maxTitanite": 2800,
+          "score": 15
+        },
+        {
+          "maxTitanite": 3200,
+          "score": 40
+        },
+        {
+          "maxTitanite": 3800,
+          "score": 60
+        },
+        {
+          "maxTitanite": 4300,
+          "score": 80
+        },
+        {
+          "maxTitanite": 4800,
+          "score": 100
+        }
+      ],
+      "profileThresholds": [
+        {
+          "maxScore": 20,
+          "profile": 1
+        },
+        {
+          "maxScore": 40,
+          "profile": 2
+        },
+        {
+          "maxScore": 60,
+          "profile": 3
+        },
+        {
+          "maxScore": 80,
+          "profile": 4
+        },
+        {
+          "maxScore": 100,
+          "profile": 5
+        },
+        {
+          "maxScore": 150,
+          "profile": 6
+        },
+        {
+          "maxScore": 200,
+          "profile": 7
+        },
+        {
+          "maxScore": 999,
+          "profile": 8
+        }
+      ],
+      "titanWeights": {
+        "4000": {
+          "hp": 2.5,
+          "energy": 1.6
+        },
+        "4001": {
+          "hp": 2,
+          "energy": 1.6
+        },
+        "4002": {
+          "hp": 1,
+          "energy": 0.8
+        },
+        "4003": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4004": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4010": {
+          "hp": 2.5,
+          "energy": 1.5
+        },
+        "4011": {
+          "hp": 2,
+          "energy": 1
+        },
+        "4012": {
+          "hp": 1,
+          "energy": 1
+        },
+        "4013": {
+          "hp": 1,
+          "energy": 1.4
+        },
+        "4014": {
+          "hp": 1.5,
+          "energy": 1.2
+        },
+        "4020": {
+          "hp": 1.3,
+          "energy": 1.5
+        },
+        "4021": {
+          "hp": 0.9,
+          "energy": 0.7
+        },
+        "4022": {
+          "hp": 1.5,
+          "energy": 1.8
+        },
+        "4023": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4024": {
+          "hp": 1,
+          "energy": 1.2
+        },
+        "4030": {
+          "hp": 0.9,
+          "energy": 1
+        },
+        "4031": {
+          "hp": 0.6,
+          "energy": 0.6
+        },
+        "4032": {
+          "hp": 0.5,
+          "energy": 0.2
+        },
+        "4033": {
+          "hp": 0.7,
+          "energy": 1.3
+        },
+        "4034": {
+          "hp": 0.7,
+          "energy": 1
+        },
+        "4040": {
+          "hp": 0.9,
+          "energy": 1
+        },
+        "4041": {
+          "hp": 0.6,
+          "energy": 0.6
+        },
+        "4042": {
+          "hp": 0.5,
+          "energy": 0.2
+        },
+        "4043": {
+          "hp": 0.7,
+          "energy": 1.1
+        },
+        "4044": {
+          "hp": 0.7,
+          "energy": 1
+        }
+      }
+    }
+  }
+}
