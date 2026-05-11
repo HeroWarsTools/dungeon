@@ -15,16 +15,9 @@
       "hp": 13,
       "energy": 1
     },
-    "logic": {
-      "scoringMethod": "weighted",
-      "zeroDeaths": true,
-      "antiOneshot": false,
-      "deepGA": false
-    },
     "tech": {
       "timeoutFix": 5000,
       "countFix": 30,
-      "monoMultiplier": 1,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 25,
@@ -35,6 +28,7 @@
       4001,
       4002,
       4003,
+      4004,
       4010,
       4011,
       4012,
@@ -49,7 +43,13 @@
       4042,
       4043
     ],
-    "id": 1
+    "id": 1,
+    "logic": {
+      "scoringMethod": "weighted",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    }
   },
   {
     "algo": {
@@ -67,16 +67,9 @@
       "hp": 20,
       "energy": 1
     },
-    "logic": {
-      "scoringMethod": "weighted",
-      "zeroDeaths": true,
-      "antiOneshot": false,
-      "deepGA": false
-    },
     "tech": {
       "timeoutFix": 10000,
-      "countFix": 40,
-      "monoMultiplier": 3,
+      "countFix": 50,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 60,
@@ -87,6 +80,7 @@
       4001,
       4002,
       4003,
+      4004,
       4010,
       4011,
       4012,
@@ -106,14 +100,20 @@
       4042,
       4043
     ],
-    "id": 2
+    "id": 2,
+    "logic": {
+      "scoringMethod": "weighted",
+      "zeroDeaths": true,
+      "antiOneshot": false,
+      "deepGA": false
+    }
   },
   {
     "algo": {
       "countTest": 15,
-      "populationSize": 12,
-      "generations": 50,
-      "mutationRate": 0.09,
+      "populationSize": 16,
+      "generations": 120,
+      "mutationRate": 0.07,
       "eliteCount": 3
     },
     "threshold": {
@@ -121,11 +121,11 @@
       "simRank": 54
     },
     "weights": {
-      "hp": 25,
+      "hp": 125,
       "energy": 1
     },
     "logic": {
-      "scoringMethod": "strict",
+      "scoringMethod": "weighted",
       "zeroDeaths": true,
       "antiOneshot": false,
       "deepGA": true
@@ -133,7 +133,6 @@
     "tech": {
       "timeoutFix": 20000,
       "countFix": 150,
-      "monoMultiplier": 4,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
       "maxTimer": 80,
@@ -144,6 +143,7 @@
       4001,
       4002,
       4003,
+      4004,
       4010,
       4011,
       4012,
@@ -167,40 +167,40 @@
   },
   {
     "algo": {
-      "countTest": 15,
-      "populationSize": 15,
-      "generations": 50,
-      "mutationRate": 0.09,
-      "eliteCount": 4
+      "countTest": 20,
+      "populationSize": 21,
+      "generations": 250,
+      "mutationRate": 0.04,
+      "eliteCount": 5
     },
     "threshold": {
-      "simSamples": 60,
-      "simRank": 57
+      "simSamples": 200,
+      "simRank": 192
     },
     "weights": {
-      "hp": 50,
+      "hp": 230,
       "energy": 1
     },
     "logic": {
-      "scoringMethod": "strict",
+      "scoringMethod": "weighted",
       "zeroDeaths": true,
       "antiOneshot": false,
       "deepGA": true
     },
     "tech": {
-      "timeoutFix": 35000,
-      "countFix": 250,
-      "monoMultiplier": 6,
+      "timeoutFix": 70000,
+      "countFix": 800,
       "maxTitanPower": 30000,
       "minTitanPower": 5000,
-      "maxTimer": 100,
-      "fixCoeff": 128.8
+      "maxTimer": 120,
+      "fixCoeff": 168.8
     },
     "titans": [
       4000,
       4001,
       4002,
       4003,
+      4004,
       4010,
       4011,
       4012,
