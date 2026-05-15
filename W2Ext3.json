@@ -187,7 +187,7 @@
       "ga_eliteCount": 2,
       "sim_countTestBattle": 5,
       "sim_countAutoBattle": 10,
-      "decision_hpWeight": 20,
+      "decision_hpWeight": 40,
       "decision_energyWeight": 1,
       "titaniteTiers": [
         {
@@ -251,7 +251,7 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 1.6,
+          "hp": 3.6,
           "energy": 1.6
         },
         "4001": {
@@ -271,7 +271,7 @@
           "energy": 1.4
         },
         "4010": {
-          "hp": 1.6,
+          "hp": 3.6,
           "energy": 1.5
         },
         "4011": {
@@ -291,7 +291,7 @@
           "energy": 1.2
         },
         "4020": {
-          "hp": 1.5,
+          "hp": 3.5,
           "energy": 1.5
         },
         "4021": {
