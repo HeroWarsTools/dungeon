@@ -3,14 +3,14 @@
     "timeoutFix": 20000,
     "countFix": 150,
     "fixedTimerValue": 158.8,
-    "maxTimerValue": 90,
+    "maxTimerValue": 100,
     "ga_populationSize": 15,
-    "ga_generations": 150,
+    "ga_generations": 200,
     "ga_mutationRate": 0.04,
     "ga_eliteCount": 3,
-    "sim_countTestBattle": 10,
+    "sim_countTestBattle": 20,
     "sim_countAutoBattle": 20,
-    "decision_hpWeight": 25,
+    "decision_hpWeight": 125,
     "decision_energyWeight": 1,
     "titaniteTiers": [
       {
@@ -178,9 +178,9 @@
   "profiles": {
     "profile1": {
       "timeoutFix": 10000,
-      "countFix": 50,
-      "fixedTimerValue": 138.8,
-      "maxTimerValue": 50,
+      "countFix": 40,
+      "fixedTimerValue": 48.8,
+      "maxTimerValue": 30,
       "ga_populationSize": 12,
       "ga_generations": 30,
       "ga_mutationRate": 0.1,
@@ -354,9 +354,9 @@
     },
     "profile2": {
       "timeoutFix": 20000,
-      "countFix": 100,
-      "fixedTimerValue": 158.8,
-      "maxTimerValue": 70,
+      "countFix": 80,
+      "fixedTimerValue": 78.8,
+      "maxTimerValue": 50,
       "ga_populationSize": 15,
       "ga_generations": 50,
       "ga_mutationRate": 0.1,
@@ -603,12 +603,12 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 1.8,
-          "energy": 1.6
+          "hp": 2.5,
+          "energy": 2
         },
         "4001": {
-          "hp": 1.2,
-          "energy": 1.6
+          "hp": 2,
+          "energy": 2.2
         },
         "4002": {
           "hp": 1,
@@ -619,15 +619,15 @@
           "energy": 1
         },
         "4004": {
-          "hp": 1,
-          "energy": 1.4
+          "hp": 1.5,
+          "energy": 2
         },
         "4010": {
-          "hp": 1.6,
-          "energy": 1.5
+          "hp": 3,
+          "energy": 2
         },
         "4011": {
-          "hp": 1.4,
+          "hp": 2.2,
           "energy": 1
         },
         "4012": {
@@ -639,11 +639,11 @@
           "energy": 1.4
         },
         "4014": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 2,
+          "energy": 2.5
         },
         "4020": {
-          "hp": 1.3,
+          "hp": 1.5,
           "energy": 1.5
         },
         "4021": {
@@ -651,56 +651,56 @@
           "energy": 0.7
         },
         "4022": {
-          "hp": 1.2,
-          "energy": 1.5
+          "hp": 1.5,
+          "energy": 2.2
         },
         "4023": {
           "hp": 1,
           "energy": 1.2
         },
         "4024": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 1.5,
+          "energy": 2
         },
         "4030": {
-          "hp": 1,
+          "hp": 0.9,
           "energy": 1
         },
         "4031": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.6,
+          "energy": 0.6
         },
         "4032": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.5,
+          "energy": 0.5
         },
         "4033": {
           "hp": 0.7,
-          "energy": 1.3
+          "energy": 1.4
         },
         "4034": {
           "hp": 0.7,
           "energy": 1
         },
         "4040": {
-          "hp": 1,
+          "hp": 0.9,
           "energy": 1
         },
         "4041": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.6,
+          "energy": 0.6
         },
         "4042": {
-          "hp": 0.7,
-          "energy": 1.1
+          "hp": 0.5,
+          "energy": 1.2
         },
         "4043": {
           "hp": 0.7,
-          "energy": 1.1
+          "energy": 1.2
         },
         "4044": {
           "hp": 0.7,
-          "energy": 1
+          "energy": 1.2
         }
       }
     },
@@ -779,12 +779,12 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 1.8,
-          "energy": 1.6
+          "hp": 2.5,
+          "energy": 2
         },
         "4001": {
-          "hp": 1.2,
-          "energy": 1.6
+          "hp": 2,
+          "energy": 2.2
         },
         "4002": {
           "hp": 1,
@@ -795,15 +795,15 @@
           "energy": 1
         },
         "4004": {
-          "hp": 1,
-          "energy": 1.4
+          "hp": 1.5,
+          "energy": 2
         },
         "4010": {
-          "hp": 1.6,
-          "energy": 1.5
+          "hp": 3,
+          "energy": 2
         },
         "4011": {
-          "hp": 1.4,
+          "hp": 2.2,
           "energy": 1
         },
         "4012": {
@@ -815,11 +815,11 @@
           "energy": 1.4
         },
         "4014": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 2,
+          "energy": 2.5
         },
         "4020": {
-          "hp": 1.3,
+          "hp": 1.5,
           "energy": 1.5
         },
         "4021": {
@@ -827,56 +827,56 @@
           "energy": 0.7
         },
         "4022": {
-          "hp": 1.2,
-          "energy": 1.5
+          "hp": 1.5,
+          "energy": 2.2
         },
         "4023": {
           "hp": 1,
           "energy": 1.2
         },
         "4024": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 1.5,
+          "energy": 2
         },
         "4030": {
-          "hp": 1,
+          "hp": 0.9,
           "energy": 1
         },
         "4031": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.6,
+          "energy": 0.6
         },
         "4032": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.5,
+          "energy": 0.5
         },
         "4033": {
           "hp": 0.7,
-          "energy": 1.3
+          "energy": 1.4
         },
         "4034": {
           "hp": 0.7,
           "energy": 1
         },
         "4040": {
-          "hp": 1,
+          "hp": 0.9,
           "energy": 1
         },
         "4041": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.6,
+          "energy": 0.6
         },
         "4042": {
-          "hp": 0.7,
-          "energy": 1.1
+          "hp": 0.5,
+          "energy": 1.2
         },
         "4043": {
           "hp": 0.7,
-          "energy": 1.1
+          "energy": 1.2
         },
         "4044": {
           "hp": 0.7,
-          "energy": 1
+          "energy": 1.2
         }
       }
     },
@@ -887,7 +887,7 @@
       "maxTimerValue": 120,
       "ga_populationSize": 18,
       "ga_generations": 200,
-      "ga_mutationRate": 0.09,
+      "ga_mutationRate": 0.06,
       "ga_eliteCount": 5,
       "sim_countTestBattle": 30,
       "sim_countAutoBattle": 25,
@@ -955,12 +955,12 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 1.8,
-          "energy": 1.6
+          "hp": 3,
+          "energy": 2
         },
         "4001": {
-          "hp": 1.2,
-          "energy": 1.6
+          "hp": 2,
+          "energy": 2.2
         },
         "4002": {
           "hp": 1,
@@ -968,18 +968,18 @@
         },
         "4003": {
           "hp": 1,
-          "energy": 1
+          "energy": 1.2
         },
         "4004": {
-          "hp": 1,
-          "energy": 1.4
+          "hp": 1.5,
+          "energy": 2
         },
         "4010": {
-          "hp": 1.6,
-          "energy": 1.5
+          "hp": 3,
+          "energy": 2
         },
         "4011": {
-          "hp": 1.4,
+          "hp": 2.2,
           "energy": 1
         },
         "4012": {
@@ -991,11 +991,11 @@
           "energy": 1.4
         },
         "4014": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 2.5,
+          "energy": 2
         },
         "4020": {
-          "hp": 1.3,
+          "hp": 1.5,
           "energy": 1.5
         },
         "4021": {
@@ -1003,56 +1003,56 @@
           "energy": 0.7
         },
         "4022": {
-          "hp": 1.2,
-          "energy": 1.5
+          "hp": 1.5,
+          "energy": 2
         },
         "4023": {
           "hp": 1,
           "energy": 1.2
         },
         "4024": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 1.5,
+          "energy": 2
         },
         "4030": {
-          "hp": 1,
+          "hp": 0.9,
           "energy": 1
         },
         "4031": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.6,
+          "energy": 0.6
         },
         "4032": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.5,
+          "energy": 0.5
         },
         "4033": {
           "hp": 0.7,
-          "energy": 1.3
+          "energy": 1.4
         },
         "4034": {
           "hp": 0.7,
           "energy": 1
         },
         "4040": {
-          "hp": 1,
+          "hp": 0.9,
           "energy": 1
         },
         "4041": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.6,
+          "energy": 0.6
         },
         "4042": {
-          "hp": 0.7,
-          "energy": 0.7
+          "hp": 0.5,
+          "energy": 0.8
         },
         "4043": {
           "hp": 0.7,
-          "energy": 1.1
+          "energy": 1.2
         },
         "4044": {
           "hp": 0.7,
-          "energy": 1
+          "energy": 1.2
         }
       }
     },
@@ -1063,7 +1063,7 @@
       "maxTimerValue": 130,
       "ga_populationSize": 18,
       "ga_generations": 220,
-      "ga_mutationRate": 0.09,
+      "ga_mutationRate": 0.05,
       "ga_eliteCount": 6,
       "sim_countTestBattle": 30,
       "sim_countAutoBattle": 25,
@@ -1131,12 +1131,12 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 2,
-          "energy": 1.6
+          "hp": 3,
+          "energy": 2
         },
         "4001": {
-          "hp": 1.2,
-          "energy": 1.6
+          "hp": 2.5,
+          "energy": 2
         },
         "4002": {
           "hp": 1,
@@ -1144,18 +1144,18 @@
         },
         "4003": {
           "hp": 1,
-          "energy": 1
+          "energy": 1.2
         },
         "4004": {
-          "hp": 1,
-          "energy": 1.4
+          "hp": 1.5,
+          "energy": 2
         },
         "4010": {
-          "hp": 2,
-          "energy": 1.5
+          "hp": 3,
+          "energy": 2
         },
         "4011": {
-          "hp": 1.4,
+          "hp": 2.5,
           "energy": 1
         },
         "4012": {
@@ -1167,11 +1167,11 @@
           "energy": 1.4
         },
         "4014": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 2.5,
+          "energy": 2
         },
         "4020": {
-          "hp": 1.3,
+          "hp": 1.5,
           "energy": 1.5
         },
         "4021": {
@@ -1180,15 +1180,15 @@
         },
         "4022": {
           "hp": 1.5,
-          "energy": 1.8
+          "energy": 2
         },
         "4023": {
           "hp": 1,
           "energy": 1.2
         },
         "4024": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 1.5,
+          "energy": 2
         },
         "4030": {
           "hp": 0.9,
@@ -1200,11 +1200,11 @@
         },
         "4032": {
           "hp": 0.5,
-          "energy": 0.2
+          "energy": 0.5
         },
         "4033": {
           "hp": 0.7,
-          "energy": 1.3
+          "energy": 1.4
         },
         "4034": {
           "hp": 0.7,
@@ -1220,15 +1220,15 @@
         },
         "4042": {
           "hp": 0.5,
-          "energy": 0.2
+          "energy": 0.5
         },
         "4043": {
           "hp": 0.7,
-          "energy": 1.1
+          "energy": 1.2
         },
         "4044": {
           "hp": 0.7,
-          "energy": 1
+          "energy": 1.2
         }
       }
     },
@@ -1239,7 +1239,7 @@
       "maxTimerValue": 150,
       "ga_populationSize": 21,
       "ga_generations": 250,
-      "ga_mutationRate": 0.09,
+      "ga_mutationRate": 0.04,
       "ga_eliteCount": 7,
       "sim_countTestBattle": 50,
       "sim_countAutoBattle": 40,
@@ -1307,12 +1307,12 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 2.5,
-          "energy": 1.6
+          "hp": 3,
+          "energy": 2
         },
         "4001": {
-          "hp": 2,
-          "energy": 1.6
+          "hp": 2.5,
+          "energy": 2
         },
         "4002": {
           "hp": 1,
@@ -1320,18 +1320,18 @@
         },
         "4003": {
           "hp": 1,
-          "energy": 1
-        },
-        "4004": {
-          "hp": 1,
-          "energy": 1.4
-        },
-        "4010": {
-          "hp": 2.5,
           "energy": 1.5
         },
+        "4004": {
+          "hp": 1.5,
+          "energy": 2
+        },
+        "4010": {
+          "hp": 3,
+          "energy": 2
+        },
         "4011": {
-          "hp": 2,
+          "hp": 2.5,
           "energy": 1
         },
         "4012": {
@@ -1343,11 +1343,11 @@
           "energy": 1.4
         },
         "4014": {
-          "hp": 1.5,
-          "energy": 1.2
+          "hp": 2.5,
+          "energy": 2
         },
         "4020": {
-          "hp": 1.3,
+          "hp": 1.5,
           "energy": 1.5
         },
         "4021": {
@@ -1356,15 +1356,15 @@
         },
         "4022": {
           "hp": 1.5,
-          "energy": 1.8
+          "energy": 2
         },
         "4023": {
           "hp": 1,
           "energy": 1.2
         },
         "4024": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 1.5,
+          "energy": 2
         },
         "4030": {
           "hp": 0.9,
@@ -1376,11 +1376,11 @@
         },
         "4032": {
           "hp": 0.5,
-          "energy": 0.2
+          "energy": 0.3
         },
         "4033": {
           "hp": 0.7,
-          "energy": 1.3
+          "energy": 1.4
         },
         "4034": {
           "hp": 0.7,
@@ -1396,15 +1396,15 @@
         },
         "4042": {
           "hp": 0.5,
-          "energy": 0.2
+          "energy": 0.1
         },
         "4043": {
           "hp": 0.7,
-          "energy": 1.1
+          "energy": 1.2
         },
         "4044": {
           "hp": 0.7,
-          "energy": 1
+          "energy": 1.2
         }
       }
     },
@@ -1415,7 +1415,7 @@
       "maxTimerValue": 160,
       "ga_populationSize": 22,
       "ga_generations": 300,
-      "ga_mutationRate": 0.08,
+      "ga_mutationRate": 0.03,
       "ga_eliteCount": 8,
       "sim_countTestBattle": 70,
       "sim_countAutoBattle": 50,
@@ -1483,12 +1483,12 @@
       ],
       "titanWeights": {
         "4000": {
-          "hp": 2.5,
-          "energy": 1.6
+          "hp": 3,
+          "energy": 2
         },
         "4001": {
-          "hp": 2,
-          "energy": 1.6
+          "hp": 2.5,
+          "energy": 2
         },
         "4002": {
           "hp": 1,
@@ -1496,18 +1496,18 @@
         },
         "4003": {
           "hp": 1,
-          "energy": 1
-        },
-        "4004": {
-          "hp": 1,
-          "energy": 1.4
-        },
-        "4010": {
-          "hp": 2.5,
           "energy": 1.5
         },
+        "4004": {
+          "hp": 1.5,
+          "energy": 2
+        },
+        "4010": {
+          "hp": 3,
+          "energy": 2
+        },
         "4011": {
-          "hp": 2,
+          "hp": 2.5,
           "energy": 1
         },
         "4012": {
@@ -1519,11 +1519,11 @@
           "energy": 1.4
         },
         "4014": {
-          "hp": 1.5,
-          "energy": 1.2
+          "hp": 2.5,
+          "energy": 2
         },
         "4020": {
-          "hp": 1.3,
+          "hp": 1.5,
           "energy": 1.5
         },
         "4021": {
@@ -1532,15 +1532,15 @@
         },
         "4022": {
           "hp": 1.5,
-          "energy": 1.8
+          "energy": 2
         },
         "4023": {
           "hp": 1,
           "energy": 1.2
         },
         "4024": {
-          "hp": 1,
-          "energy": 1.2
+          "hp": 1.5,
+          "energy": 2
         },
         "4030": {
           "hp": 0.9,
@@ -1552,11 +1552,11 @@
         },
         "4032": {
           "hp": 0.5,
-          "energy": 0.2
+          "energy": 0.3
         },
         "4033": {
           "hp": 0.7,
-          "energy": 1.3
+          "energy": 1.4
         },
         "4034": {
           "hp": 0.7,
@@ -1572,15 +1572,15 @@
         },
         "4042": {
           "hp": 0.5,
-          "energy": 0.2
+          "energy": 0.1
         },
         "4043": {
           "hp": 0.7,
-          "energy": 1.1
+          "energy": 1.2
         },
         "4044": {
           "hp": 0.7,
-          "energy": 1
+          "energy": 1.2
         }
       }
     }
