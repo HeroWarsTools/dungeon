@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T15:12:31",
+ "generated": "2026-10-11T20:09:31",
  "rule": "robust100",
  "robust_min": 100,
  "ruota_min_arch": 4,
@@ -4188,1405 +4188,6 @@
       }
      ]
     },
-    "(('earth', 2), ('fire', 1), ('water', 2))": {
-     "grid": [
-      4,
-      9
-     ],
-     "n_total": 1296,
-     "n_robust": 0,
-     "n_selected": 100,
-     "teams": [
-      {
-       "pack": [
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 35,
-       "timerHits": 31,
-       "zeroPairs": 74,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 35,
-       "timerHits": 23,
-       "zeroPairs": 56,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4040,
-        4044
-       ],
-       "seedHits": 35,
-       "timerHits": 16,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 34,
-       "timerHits": 23,
-       "zeroPairs": 59,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4040,
-        4041
-       ],
-       "seedHits": 34,
-       "timerHits": 20,
-       "zeroPairs": 48,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4040,
-        4042
-       ],
-       "seedHits": 34,
-       "timerHits": 17,
-       "zeroPairs": 44,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4023,
-        4024,
-        4030,
-        4031
-       ],
-       "seedHits": 33,
-       "timerHits": 36,
-       "zeroPairs": 65,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 33,
-       "timerHits": 30,
-       "zeroPairs": 59,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4040,
-        4041
-       ],
-       "seedHits": 32,
-       "timerHits": 36,
-       "zeroPairs": 69,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4023,
-        4024,
-        4030,
-        4034
-       ],
-       "seedHits": 32,
-       "timerHits": 35,
-       "zeroPairs": 62,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4023,
-        4024,
-        4030,
-        4033
-       ],
-       "seedHits": 32,
-       "timerHits": 32,
-       "zeroPairs": 64,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4022,
-        4024,
-        4030,
-        4032
-       ],
-       "seedHits": 32,
-       "timerHits": 26,
-       "zeroPairs": 89,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 32,
-       "timerHits": 24,
-       "zeroPairs": 50,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4024,
-        4040,
-        4042
-       ],
-       "seedHits": 32,
-       "timerHits": 21,
-       "zeroPairs": 41,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 32,
-       "timerHits": 20,
-       "zeroPairs": 52,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 32,
-       "timerHits": 11,
-       "zeroPairs": 39,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 32,
-       "timerHits": 10,
-       "zeroPairs": 34,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4023,
-        4024,
-        4030,
-        4032
-       ],
-       "seedHits": 31,
-       "timerHits": 45,
-       "zeroPairs": 71,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4022,
-        4024,
-        4030,
-        4033
-       ],
-       "seedHits": 31,
-       "timerHits": 38,
-       "zeroPairs": 143,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4040,
-        4043
-       ],
-       "seedHits": 31,
-       "timerHits": 32,
-       "zeroPairs": 63,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 31,
-       "timerHits": 30,
-       "zeroPairs": 53,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4022,
-        4024,
-        4030,
-        4031
-       ],
-       "seedHits": 31,
-       "timerHits": 25,
-       "zeroPairs": 88,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 31,
-       "timerHits": 24,
-       "zeroPairs": 51,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4022,
-        4024,
-        4030,
-        4034
-       ],
-       "seedHits": 31,
-       "timerHits": 19,
-       "zeroPairs": 61,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4022,
-        4024,
-        4030,
-        4032
-       ],
-       "seedHits": 31,
-       "timerHits": 11,
-       "zeroPairs": 32,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 30,
-       "timerHits": 33,
-       "zeroPairs": 56,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4040,
-        4043
-       ],
-       "seedHits": 30,
-       "timerHits": 29,
-       "zeroPairs": 53,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 30,
-       "timerHits": 22,
-       "zeroPairs": 50,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4023,
-        4040,
-        4042
-       ],
-       "seedHits": 30,
-       "timerHits": 22,
-       "zeroPairs": 41,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 30,
-       "timerHits": 21,
-       "zeroPairs": 46,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4040,
-        4042
-       ],
-       "seedHits": 30,
-       "timerHits": 9,
-       "zeroPairs": 30,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4021,
-        4024,
-        4030,
-        4032
-       ],
-       "seedHits": 29,
-       "timerHits": 33,
-       "zeroPairs": 55,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4023,
-        4040,
-        4044
-       ],
-       "seedHits": 29,
-       "timerHits": 22,
-       "zeroPairs": 41,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 29,
-       "timerHits": 21,
-       "zeroPairs": 42,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4040,
-        4041
-       ],
-       "seedHits": 29,
-       "timerHits": 21,
-       "zeroPairs": 42,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 29,
-       "timerHits": 21,
-       "zeroPairs": 41,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 29,
-       "timerHits": 20,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 29,
-       "timerHits": 20,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4024,
-        4040,
-        4043
-       ],
-       "seedHits": 29,
-       "timerHits": 19,
-       "zeroPairs": 39,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4030,
-        4033
-       ],
-       "seedHits": 29,
-       "timerHits": 17,
-       "zeroPairs": 49,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4022,
-        4024,
-        4040,
-        4043
-       ],
-       "seedHits": 29,
-       "timerHits": 10,
-       "zeroPairs": 31,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4021,
-        4024,
-        4040,
-        4043
-       ],
-       "seedHits": 29,
-       "timerHits": 8,
-       "zeroPairs": 29,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4030,
-        4033
-       ],
-       "seedHits": 29,
-       "timerHits": 8,
-       "zeroPairs": 29,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4040,
-        4044
-       ],
-       "seedHits": 29,
-       "timerHits": 8,
-       "zeroPairs": 29,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4004,
-        4011,
-        4040,
-        4041
-       ],
-       "seedHits": 28,
-       "timerHits": 55,
-       "zeroPairs": 154,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4004,
-        4040,
-        4041
-       ],
-       "seedHits": 28,
-       "timerHits": 44,
-       "zeroPairs": 87,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 28,
-       "timerHits": 25,
-       "zeroPairs": 47,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4040,
-        4041
-       ],
-       "seedHits": 28,
-       "timerHits": 22,
-       "zeroPairs": 44,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4020,
-        4024,
-        4030,
-        4031
-       ],
-       "seedHits": 28,
-       "timerHits": 14,
-       "zeroPairs": 56,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4030,
-        4031
-       ],
-       "seedHits": 28,
-       "timerHits": 14,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4030,
-        4032
-       ],
-       "seedHits": 28,
-       "timerHits": 14,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4030,
-        4034
-       ],
-       "seedHits": 28,
-       "timerHits": 14,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4024,
-        4040,
-        4044
-       ],
-       "seedHits": 28,
-       "timerHits": 13,
-       "zeroPairs": 31,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4040,
-        4042
-       ],
-       "seedHits": 28,
-       "timerHits": 12,
-       "zeroPairs": 30,
-       "nRows": 8,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4004,
-        4013,
-        4040,
-        4043
-       ],
-       "seedHits": 28,
-       "timerHits": 7,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4030,
-        4033
-       ],
-       "seedHits": 28,
-       "timerHits": 7,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4030,
-        4033
-       ],
-       "seedHits": 28,
-       "timerHits": 7,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4030,
-        4033
-       ],
-       "seedHits": 28,
-       "timerHits": 7,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4020,
-        4024,
-        4030,
-        4033
-       ],
-       "seedHits": 28,
-       "timerHits": 7,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4021,
-        4024,
-        4040,
-        4043
-       ],
-       "seedHits": 28,
-       "timerHits": 7,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4004,
-        4014,
-        4040,
-        4041
-       ],
-       "seedHits": 27,
-       "timerHits": 50,
-       "zeroPairs": 126,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 27,
-       "timerHits": 18,
-       "zeroPairs": 37,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 27,
-       "timerHits": 17,
-       "zeroPairs": 35,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4021,
-        4024,
-        4030,
-        4033
-       ],
-       "seedHits": 27,
-       "timerHits": 7,
-       "zeroPairs": 27,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4004,
-        4011,
-        4040,
-        4042
-       ],
-       "seedHits": 26,
-       "timerHits": 48,
-       "zeroPairs": 122,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4000,
-        4013,
-        4014,
-        4040,
-        4043
-       ],
-       "seedHits": 26,
-       "timerHits": 17,
-       "zeroPairs": 38,
-       "nRows": 10,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4022,
-        4040,
-        4043
-       ],
-       "seedHits": 26,
-       "timerHits": 17,
-       "zeroPairs": 36,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4021,
-        4024,
-        4030,
-        4032
-       ],
-       "seedHits": 25,
-       "timerHits": 106,
-       "zeroPairs": 148,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4022,
-        4040,
-        4042
-       ],
-       "seedHits": 25,
-       "timerHits": 19,
-       "zeroPairs": 37,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4020,
-        4040,
-        4042
-       ],
-       "seedHits": 25,
-       "timerHits": 15,
-       "zeroPairs": 30,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 25,
-       "timerHits": 12,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4040,
-        4044
-       ],
-       "seedHits": 25,
-       "timerHits": 7,
-       "zeroPairs": 25,
-       "nRows": 8,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4012,
-        4014,
-        4040,
-        4041
-       ],
-       "seedHits": 24,
-       "timerHits": 62,
-       "zeroPairs": 124,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4014,
-        4040,
-        4041
-       ],
-       "seedHits": 24,
-       "timerHits": 40,
-       "zeroPairs": 106,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4023,
-        4024,
-        4030,
-        4032
-       ],
-       "seedHits": 24,
-       "timerHits": 27,
-       "zeroPairs": 40,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4004,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 24,
-       "timerHits": 23,
-       "zeroPairs": 51,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4023,
-        4040,
-        4041
-       ],
-       "seedHits": 24,
-       "timerHits": 21,
-       "zeroPairs": 36,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4023,
-        4030,
-        4033
-       ],
-       "seedHits": 24,
-       "timerHits": 17,
-       "zeroPairs": 35,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4020,
-        4040,
-        4043
-       ],
-       "seedHits": 24,
-       "timerHits": 15,
-       "zeroPairs": 34,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4020,
-        4040,
-        4044
-       ],
-       "seedHits": 24,
-       "timerHits": 13,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4000,
-        4013,
-        4014,
-        4040,
-        4044
-       ],
-       "seedHits": 24,
-       "timerHits": 12,
-       "zeroPairs": 30,
-       "nRows": 10,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4040,
-        4041
-       ],
-       "seedHits": 24,
-       "timerHits": 12,
-       "zeroPairs": 28,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4030,
-        4031
-       ],
-       "seedHits": 24,
-       "timerHits": 9,
-       "zeroPairs": 24,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4030,
-        4032
-       ],
-       "seedHits": 24,
-       "timerHits": 9,
-       "zeroPairs": 24,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4030,
-        4034
-       ],
-       "seedHits": 24,
-       "timerHits": 9,
-       "zeroPairs": 24,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4030,
-        4033
-       ],
-       "seedHits": 24,
-       "timerHits": 6,
-       "zeroPairs": 24,
-       "nRows": 8,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4014,
-        4021,
-        4040,
-        4044
-       ],
-       "seedHits": 23,
-       "timerHits": 65,
-       "zeroPairs": 211,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4014,
-        4022,
-        4040,
-        4041
-       ],
-       "seedHits": 23,
-       "timerHits": 48,
-       "zeroPairs": 134,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4004,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 23,
-       "timerHits": 44,
-       "zeroPairs": 109,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4004,
-        4011,
-        4040,
-        4043
-       ],
-       "seedHits": 23,
-       "timerHits": 32,
-       "zeroPairs": 66,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4040,
-        4043
-       ],
-       "seedHits": 23,
-       "timerHits": 18,
-       "zeroPairs": 36,
-       "nRows": 8,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4022,
-        4040,
-        4044
-       ],
-       "seedHits": 23,
-       "timerHits": 14,
-       "zeroPairs": 29,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4000,
-        4013,
-        4014,
-        4040,
-        4042
-       ],
-       "seedHits": 23,
-       "timerHits": 11,
-       "zeroPairs": 28,
-       "nRows": 10,
-       "robust": false
-      },
-      {
-       "pack": [
-        4000,
-        4013,
-        4014,
-        4030,
-        4033
-       ],
-       "seedHits": 23,
-       "timerHits": 10,
-       "zeroPairs": 28,
-       "nRows": 10,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4030,
-        4031
-       ],
-       "seedHits": 23,
-       "timerHits": 9,
-       "zeroPairs": 24,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4013,
-        4014,
-        4030,
-        4033
-       ],
-       "seedHits": 23,
-       "timerHits": 8,
-       "zeroPairs": 23,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4030,
-        4031
-       ],
-       "seedHits": 23,
-       "timerHits": 8,
-       "zeroPairs": 23,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4030,
-        4032
-       ],
-       "seedHits": 23,
-       "timerHits": 8,
-       "zeroPairs": 23,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4030,
-        4034
-       ],
-       "seedHits": 23,
-       "timerHits": 8,
-       "zeroPairs": 23,
-       "nRows": 12,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4004,
-        4021,
-        4040,
-        4041
-       ],
-       "seedHits": 22,
-       "timerHits": 65,
-       "zeroPairs": 125,
-       "nRows": 12,
-       "robust": false
-      }
-     ]
-    },
     "(('earth', 2), ('fire', 2), ('water', 1))": {
      "grid": [
       4,
@@ -8494,6 +7095,1402 @@
        "zeroPairs": 904,
        "nRows": 5,
        "robust": true
+      }
+     ]
+    },
+    "(('earth', 2), ('fire', 1), ('water', 2))": {
+     "grid": [
+      15,
+      12
+     ],
+     "n_total": 1296,
+     "n_robust": 0,
+     "n_selected": 100,
+     "teams": [
+      {
+       "pack": [
+        4003,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 28,
+       "timerHits": 44,
+       "zeroPairs": 87,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4013,
+        4040,
+        4043
+       ],
+       "seedHits": 28,
+       "timerHits": 7,
+       "zeroPairs": 28,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4014,
+        4040,
+        4041
+       ],
+       "seedHits": 27,
+       "timerHits": 50,
+       "zeroPairs": 126,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4011,
+        4040,
+        4042
+       ],
+       "seedHits": 26,
+       "timerHits": 48,
+       "zeroPairs": 122,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4014,
+        4040,
+        4042
+       ],
+       "seedHits": 24,
+       "timerHits": 23,
+       "zeroPairs": 51,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4014,
+        4040,
+        4042
+       ],
+       "seedHits": 23,
+       "timerHits": 44,
+       "zeroPairs": 109,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4021,
+        4040,
+        4041
+       ],
+       "seedHits": 22,
+       "timerHits": 65,
+       "zeroPairs": 125,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4023,
+        4040,
+        4041
+       ],
+       "seedHits": 22,
+       "timerHits": 46,
+       "zeroPairs": 81,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4012,
+        4040,
+        4041
+       ],
+       "seedHits": 22,
+       "timerHits": 25,
+       "zeroPairs": 45,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 20,
+       "timerHits": 71,
+       "zeroPairs": 181,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 20,
+       "timerHits": 61,
+       "zeroPairs": 151,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 20,
+       "timerHits": 59,
+       "zeroPairs": 177,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4011,
+        4040,
+        4041
+       ],
+       "seedHits": 20,
+       "timerHits": 58,
+       "zeroPairs": 148,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 20,
+       "timerHits": 58,
+       "zeroPairs": 130,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 20,
+       "timerHits": 45,
+       "zeroPairs": 81,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 19,
+       "timerHits": 72,
+       "zeroPairs": 229,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4040,
+        4044
+       ],
+       "seedHits": 19,
+       "timerHits": 49,
+       "zeroPairs": 116,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4011,
+        4040,
+        4041
+       ],
+       "seedHits": 19,
+       "timerHits": 48,
+       "zeroPairs": 85,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4024,
+        4040,
+        4041
+       ],
+       "seedHits": 19,
+       "timerHits": 47,
+       "zeroPairs": 109,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4022,
+        4040,
+        4041
+       ],
+       "seedHits": 19,
+       "timerHits": 43,
+       "zeroPairs": 104,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4012,
+        4040,
+        4041
+       ],
+       "seedHits": 19,
+       "timerHits": 38,
+       "zeroPairs": 90,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4023,
+        4040,
+        4042
+       ],
+       "seedHits": 19,
+       "timerHits": 36,
+       "zeroPairs": 58,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4040,
+        4043
+       ],
+       "seedHits": 19,
+       "timerHits": 31,
+       "zeroPairs": 73,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4014,
+        4040,
+        4043
+       ],
+       "seedHits": 18,
+       "timerHits": 26,
+       "zeroPairs": 43,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4022,
+        4040,
+        4041
+       ],
+       "seedHits": 17,
+       "timerHits": 43,
+       "zeroPairs": 83,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4021,
+        4040,
+        4042
+       ],
+       "seedHits": 17,
+       "timerHits": 42,
+       "zeroPairs": 79,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4023,
+        4040,
+        4041
+       ],
+       "seedHits": 17,
+       "timerHits": 34,
+       "zeroPairs": 48,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 17,
+       "timerHits": 27,
+       "zeroPairs": 52,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4012,
+        4040,
+        4042
+       ],
+       "seedHits": 17,
+       "timerHits": 21,
+       "zeroPairs": 43,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 16,
+       "timerHits": 58,
+       "zeroPairs": 199,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4020,
+        4040,
+        4041
+       ],
+       "seedHits": 16,
+       "timerHits": 45,
+       "zeroPairs": 123,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4040,
+        4044
+       ],
+       "seedHits": 16,
+       "timerHits": 41,
+       "zeroPairs": 111,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4011,
+        4040,
+        4042
+       ],
+       "seedHits": 16,
+       "timerHits": 39,
+       "zeroPairs": 90,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4022,
+        4040,
+        4041
+       ],
+       "seedHits": 16,
+       "timerHits": 37,
+       "zeroPairs": 88,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4024,
+        4040,
+        4042
+       ],
+       "seedHits": 16,
+       "timerHits": 37,
+       "zeroPairs": 55,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4021,
+        4040,
+        4042
+       ],
+       "seedHits": 16,
+       "timerHits": 36,
+       "zeroPairs": 77,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4012,
+        4040,
+        4042
+       ],
+       "seedHits": 16,
+       "timerHits": 36,
+       "zeroPairs": 73,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4022,
+        4040,
+        4042
+       ],
+       "seedHits": 16,
+       "timerHits": 34,
+       "zeroPairs": 69,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4020,
+        4040,
+        4042
+       ],
+       "seedHits": 15,
+       "timerHits": 45,
+       "zeroPairs": 100,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4040,
+        4044
+       ],
+       "seedHits": 15,
+       "timerHits": 36,
+       "zeroPairs": 72,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4011,
+        4040,
+        4042
+       ],
+       "seedHits": 15,
+       "timerHits": 35,
+       "zeroPairs": 55,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4024,
+        4040,
+        4042
+       ],
+       "seedHits": 15,
+       "timerHits": 34,
+       "zeroPairs": 62,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4023,
+        4040,
+        4041
+       ],
+       "seedHits": 15,
+       "timerHits": 30,
+       "zeroPairs": 45,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4024,
+        4040,
+        4041
+       ],
+       "seedHits": 15,
+       "timerHits": 27,
+       "zeroPairs": 56,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4013,
+        4040,
+        4042
+       ],
+       "seedHits": 15,
+       "timerHits": 26,
+       "zeroPairs": 49,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4023,
+        4040,
+        4042
+       ],
+       "seedHits": 15,
+       "timerHits": 23,
+       "zeroPairs": 28,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4004,
+        4040,
+        4044
+       ],
+       "seedHits": 15,
+       "timerHits": 9,
+       "zeroPairs": 18,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4030,
+        4033
+       ],
+       "seedHits": 15,
+       "timerHits": 3,
+       "zeroPairs": 45,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4030,
+        4032
+       ],
+       "seedHits": 15,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4040,
+        4041
+       ],
+       "seedHits": 15,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4040,
+        4042
+       ],
+       "seedHits": 15,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4040,
+        4044
+       ],
+       "seedHits": 15,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4020,
+        4024,
+        4030,
+        4032
+       ],
+       "seedHits": 15,
+       "timerHits": 1,
+       "zeroPairs": 15,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4030,
+        4034
+       ],
+       "seedHits": 15,
+       "timerHits": 1,
+       "zeroPairs": 15,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4021,
+        4040,
+        4042
+       ],
+       "seedHits": 14,
+       "timerHits": 46,
+       "zeroPairs": 80,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4022,
+        4040,
+        4042
+       ],
+       "seedHits": 14,
+       "timerHits": 33,
+       "zeroPairs": 61,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4012,
+        4040,
+        4041
+       ],
+       "seedHits": 14,
+       "timerHits": 33,
+       "zeroPairs": 57,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4020,
+        4040,
+        4042
+       ],
+       "seedHits": 14,
+       "timerHits": 31,
+       "zeroPairs": 54,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4020,
+        4040,
+        4041
+       ],
+       "seedHits": 14,
+       "timerHits": 30,
+       "zeroPairs": 64,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4023,
+        4040,
+        4044
+       ],
+       "seedHits": 14,
+       "timerHits": 30,
+       "zeroPairs": 43,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4003,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 14,
+       "timerHits": 17,
+       "zeroPairs": 27,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4020,
+        4024,
+        4030,
+        4031
+       ],
+       "seedHits": 14,
+       "timerHits": 1,
+       "zeroPairs": 14,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4013,
+        4022,
+        4024,
+        4030,
+        4031
+       ],
+       "seedHits": 14,
+       "timerHits": 1,
+       "zeroPairs": 14,
+       "nRows": 1,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4011,
+        4040,
+        4041
+       ],
+       "seedHits": 13,
+       "timerHits": 49,
+       "zeroPairs": 106,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4022,
+        4040,
+        4042
+       ],
+       "seedHits": 13,
+       "timerHits": 37,
+       "zeroPairs": 60,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4012,
+        4040,
+        4042
+       ],
+       "seedHits": 13,
+       "timerHits": 36,
+       "zeroPairs": 71,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4024,
+        4040,
+        4041
+       ],
+       "seedHits": 13,
+       "timerHits": 28,
+       "zeroPairs": 48,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4040,
+        4044
+       ],
+       "seedHits": 13,
+       "timerHits": 28,
+       "zeroPairs": 32,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4014,
+        4040,
+        4041
+       ],
+       "seedHits": 13,
+       "timerHits": 26,
+       "zeroPairs": 40,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4013,
+        4040,
+        4041
+       ],
+       "seedHits": 13,
+       "timerHits": 26,
+       "zeroPairs": 37,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4013,
+        4040,
+        4041
+       ],
+       "seedHits": 13,
+       "timerHits": 18,
+       "zeroPairs": 34,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4003,
+        4040,
+        4041
+       ],
+       "seedHits": 13,
+       "timerHits": 15,
+       "zeroPairs": 18,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4010,
+        4040,
+        4041
+       ],
+       "seedHits": 12,
+       "timerHits": 41,
+       "zeroPairs": 127,
+       "nRows": 8,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4011,
+        4040,
+        4044
+       ],
+       "seedHits": 12,
+       "timerHits": 32,
+       "zeroPairs": 73,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4021,
+        4040,
+        4041
+       ],
+       "seedHits": 12,
+       "timerHits": 31,
+       "zeroPairs": 54,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4021,
+        4040,
+        4044
+       ],
+       "seedHits": 12,
+       "timerHits": 31,
+       "zeroPairs": 51,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4014,
+        4040,
+        4044
+       ],
+       "seedHits": 12,
+       "timerHits": 30,
+       "zeroPairs": 68,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4021,
+        4040,
+        4041
+       ],
+       "seedHits": 12,
+       "timerHits": 30,
+       "zeroPairs": 59,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4011,
+        4040,
+        4044
+       ],
+       "seedHits": 12,
+       "timerHits": 29,
+       "zeroPairs": 49,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4020,
+        4040,
+        4041
+       ],
+       "seedHits": 12,
+       "timerHits": 28,
+       "zeroPairs": 45,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4024,
+        4040,
+        4042
+       ],
+       "seedHits": 12,
+       "timerHits": 27,
+       "zeroPairs": 54,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 12,
+       "timerHits": 26,
+       "zeroPairs": 39,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4030,
+        4032
+       ],
+       "seedHits": 12,
+       "timerHits": 23,
+       "zeroPairs": 42,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4023,
+        4040,
+        4042
+       ],
+       "seedHits": 12,
+       "timerHits": 20,
+       "zeroPairs": 24,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4011,
+        4040,
+        4044
+       ],
+       "seedHits": 12,
+       "timerHits": 18,
+       "zeroPairs": 28,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4021,
+        4040,
+        4042
+       ],
+       "seedHits": 12,
+       "timerHits": 18,
+       "zeroPairs": 21,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4021,
+        4040,
+        4041
+       ],
+       "seedHits": 12,
+       "timerHits": 14,
+       "zeroPairs": 21,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4040,
+        4043
+       ],
+       "seedHits": 12,
+       "timerHits": 8,
+       "zeroPairs": 17,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4021,
+        4040,
+        4044
+       ],
+       "seedHits": 11,
+       "timerHits": 31,
+       "zeroPairs": 57,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4012,
+        4040,
+        4042
+       ],
+       "seedHits": 11,
+       "timerHits": 31,
+       "zeroPairs": 52,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4022,
+        4040,
+        4044
+       ],
+       "seedHits": 11,
+       "timerHits": 29,
+       "zeroPairs": 44,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4022,
+        4040,
+        4044
+       ],
+       "seedHits": 11,
+       "timerHits": 27,
+       "zeroPairs": 47,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4001,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 11,
+       "timerHits": 26,
+       "zeroPairs": 40,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4020,
+        4040,
+        4044
+       ],
+       "seedHits": 11,
+       "timerHits": 25,
+       "zeroPairs": 46,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4012,
+        4040,
+        4044
+       ],
+       "seedHits": 11,
+       "timerHits": 25,
+       "zeroPairs": 44,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4004,
+        4012,
+        4040,
+        4041
+       ],
+       "seedHits": 11,
+       "timerHits": 25,
+       "zeroPairs": 43,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4001,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 11,
+       "timerHits": 25,
+       "zeroPairs": 39,
+       "nRows": 10,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4004,
+        4022,
+        4040,
+        4044
+       ],
+       "seedHits": 11,
+       "timerHits": 22,
+       "zeroPairs": 31,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4004,
+        4040,
+        4041
+       ],
+       "seedHits": 11,
+       "timerHits": 22,
+       "zeroPairs": 29,
+       "nRows": 12,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4003,
+        4004,
+        4040,
+        4042
+       ],
+       "seedHits": 11,
+       "timerHits": 15,
+       "zeroPairs": 18,
+       "nRows": 10,
+       "robust": false
       }
      ]
     }
@@ -20049,1417 +20046,6 @@
       }
      ]
     },
-    "(('earth', 2), ('fire', 1), ('water', 2))": {
-     "grid": [
-      4,
-      15
-     ],
-     "n_total": 2213,
-     "n_robust": 1,
-     "n_selected": 100,
-     "teams": [
-      {
-       "pack": [
-        4002,
-        4012,
-        4020,
-        4022,
-        4024
-       ],
-       "seedHits": 4,
-       "timerHits": 15,
-       "zeroPairs": 60,
-       "nRows": 1,
-       "robust": true
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4011,
-        4012,
-        4013
-       ],
-       "seedHits": 20,
-       "timerHits": 23,
-       "zeroPairs": 70,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4012,
-        4013,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 21,
-       "zeroPairs": 67,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4012,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 21,
-       "zeroPairs": 67,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 21,
-       "zeroPairs": 62,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4012,
-        4013,
-        4022
-       ],
-       "seedHits": 20,
-       "timerHits": 21,
-       "zeroPairs": 62,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4013,
-        4014,
-        4022
-       ],
-       "seedHits": 20,
-       "timerHits": 20,
-       "zeroPairs": 61,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 20,
-       "zeroPairs": 61,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4012,
-        4013,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 20,
-       "zeroPairs": 59,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4012,
-        4013,
-        4014
-       ],
-       "seedHits": 20,
-       "timerHits": 20,
-       "zeroPairs": 58,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4012,
-        4013,
-        4014
-       ],
-       "seedHits": 20,
-       "timerHits": 19,
-       "zeroPairs": 57,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4012,
-        4013,
-        4014,
-        4022
-       ],
-       "seedHits": 20,
-       "timerHits": 19,
-       "zeroPairs": 57,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4012,
-        4013,
-        4014,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 19,
-       "zeroPairs": 57,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4012,
-        4013,
-        4020
-       ],
-       "seedHits": 20,
-       "timerHits": 19,
-       "zeroPairs": 55,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4012,
-        4013,
-        4014,
-        4020
-       ],
-       "seedHits": 20,
-       "timerHits": 19,
-       "zeroPairs": 55,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4011,
-        4013,
-        4014
-       ],
-       "seedHits": 20,
-       "timerHits": 18,
-       "zeroPairs": 55,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4013,
-        4014,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 18,
-       "zeroPairs": 54,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4021,
-        4023
-       ],
-       "seedHits": 20,
-       "timerHits": 18,
-       "zeroPairs": 34,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4014,
-        4022
-       ],
-       "seedHits": 20,
-       "timerHits": 17,
-       "zeroPairs": 53,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4014,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 17,
-       "zeroPairs": 53,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4013,
-        4014,
-        4020
-       ],
-       "seedHits": 20,
-       "timerHits": 16,
-       "zeroPairs": 52,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4014,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 16,
-       "zeroPairs": 52,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4014,
-        4020
-       ],
-       "seedHits": 20,
-       "timerHits": 16,
-       "zeroPairs": 52,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 14,
-       "zeroPairs": 34,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4021,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 14,
-       "zeroPairs": 34,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4014,
-        4022
-       ],
-       "seedHits": 20,
-       "timerHits": 13,
-       "zeroPairs": 42,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4021,
-        4022
-       ],
-       "seedHits": 20,
-       "timerHits": 13,
-       "zeroPairs": 36,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4022,
-        4024
-       ],
-       "seedHits": 20,
-       "timerHits": 12,
-       "zeroPairs": 48,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4011,
-        4012,
-        4013,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 12,
-       "zeroPairs": 33,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4020,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 11,
-       "zeroPairs": 30,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4012,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 20,
-       "timerHits": 10,
-       "zeroPairs": 28,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4021,
-        4024
-       ],
-       "seedHits": 19,
-       "timerHits": 6,
-       "zeroPairs": 23,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4023,
-        4024
-       ],
-       "seedHits": 18,
-       "timerHits": 21,
-       "zeroPairs": 45,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 18,
-       "timerHits": 19,
-       "zeroPairs": 42,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4010,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 18,
-       "timerHits": 18,
-       "zeroPairs": 31,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 17,
-       "timerHits": 19,
-       "zeroPairs": 33,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4022,
-        4023
-       ],
-       "seedHits": 17,
-       "timerHits": 17,
-       "zeroPairs": 38,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4012,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 17,
-       "timerHits": 14,
-       "zeroPairs": 35,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4014,
-        4024
-       ],
-       "seedHits": 17,
-       "timerHits": 13,
-       "zeroPairs": 35,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4011,
-        4012,
-        4013
-       ],
-       "seedHits": 16,
-       "timerHits": 18,
-       "zeroPairs": 57,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4011,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 16,
-       "timerHits": 18,
-       "zeroPairs": 31,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4021,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 17,
-       "zeroPairs": 48,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4011,
-        4012,
-        4013,
-        4023
-       ],
-       "seedHits": 16,
-       "timerHits": 17,
-       "zeroPairs": 36,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4023,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 17,
-       "zeroPairs": 24,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4021,
-        4022
-       ],
-       "seedHits": 16,
-       "timerHits": 16,
-       "zeroPairs": 46,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4020,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 16,
-       "zeroPairs": 44,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4013,
-        4014,
-        4023,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 16,
-       "zeroPairs": 36,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4012,
-        4013,
-        4014
-       ],
-       "seedHits": 16,
-       "timerHits": 15,
-       "zeroPairs": 47,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 15,
-       "zeroPairs": 47,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4013,
-        4014,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 15,
-       "zeroPairs": 47,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4011,
-        4013,
-        4014
-       ],
-       "seedHits": 16,
-       "timerHits": 15,
-       "zeroPairs": 45,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 16,
-       "timerHits": 15,
-       "zeroPairs": 31,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4020,
-        4022
-       ],
-       "seedHits": 16,
-       "timerHits": 14,
-       "zeroPairs": 44,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4020,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 14,
-       "zeroPairs": 44,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4013,
-        4014,
-        4022,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 14,
-       "zeroPairs": 44,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4013,
-        4014,
-        4020
-       ],
-       "seedHits": 16,
-       "timerHits": 13,
-       "zeroPairs": 43,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4002,
-        4003,
-        4013,
-        4014,
-        4022
-       ],
-       "seedHits": 16,
-       "timerHits": 13,
-       "zeroPairs": 43,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4011,
-        4012,
-        4013,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 13,
-       "zeroPairs": 42,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4011,
-        4012,
-        4013,
-        4023
-       ],
-       "seedHits": 16,
-       "timerHits": 13,
-       "zeroPairs": 33,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4020,
-        4023
-       ],
-       "seedHits": 16,
-       "timerHits": 12,
-       "zeroPairs": 33,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4011,
-        4012,
-        4013,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 12,
-       "zeroPairs": 30,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4021,
-        4022
-       ],
-       "seedHits": 16,
-       "timerHits": 11,
-       "zeroPairs": 34,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4014,
-        4020
-       ],
-       "seedHits": 16,
-       "timerHits": 11,
-       "zeroPairs": 28,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4010,
-        4022,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 10,
-       "zeroPairs": 38,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4021,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 10,
-       "zeroPairs": 30,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4014,
-        4022
-       ],
-       "seedHits": 16,
-       "timerHits": 10,
-       "zeroPairs": 22,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 9,
-       "zeroPairs": 26,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4012,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 8,
-       "zeroPairs": 22,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4020,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 8,
-       "zeroPairs": 22,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4020,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 8,
-       "zeroPairs": 22,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4021,
-        4022
-       ],
-       "seedHits": 16,
-       "timerHits": 8,
-       "zeroPairs": 22,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4021,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 8,
-       "zeroPairs": 22,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4020,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 8,
-       "zeroPairs": 18,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4013,
-        4021,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 5,
-       "zeroPairs": 20,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4012,
-        4013,
-        4022,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 5,
-       "zeroPairs": 20,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4022,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 5,
-       "zeroPairs": 20,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4000,
-        4011,
-        4012,
-        4013,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 4,
-       "zeroPairs": 16,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4000,
-        4012,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 16,
-       "timerHits": 4,
-       "zeroPairs": 16,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4010,
-        4013,
-        4021,
-        4024
-       ],
-       "seedHits": 16,
-       "timerHits": 4,
-       "zeroPairs": 16,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4021,
-        4022,
-        4023
-       ],
-       "seedHits": 15,
-       "timerHits": 17,
-       "zeroPairs": 21,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4012,
-        4013,
-        4021,
-        4023
-       ],
-       "seedHits": 15,
-       "timerHits": 16,
-       "zeroPairs": 32,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4011,
-        4013,
-        4014,
-        4023
-       ],
-       "seedHits": 15,
-       "timerHits": 14,
-       "zeroPairs": 29,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4013,
-        4014,
-        4022,
-        4023
-       ],
-       "seedHits": 15,
-       "timerHits": 14,
-       "zeroPairs": 29,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4003,
-        4010,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 15,
-       "timerHits": 10,
-       "zeroPairs": 23,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4010,
-        4011,
-        4013,
-        4023
-       ],
-       "seedHits": 14,
-       "timerHits": 17,
-       "zeroPairs": 28,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4003,
-        4010,
-        4023,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 17,
-       "zeroPairs": 21,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4022,
-        4023,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 16,
-       "zeroPairs": 38,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4023,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 16,
-       "zeroPairs": 37,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4013,
-        4014,
-        4023,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 15,
-       "zeroPairs": 35,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4011,
-        4013,
-        4014,
-        4022,
-        4023
-       ],
-       "seedHits": 14,
-       "timerHits": 15,
-       "zeroPairs": 34,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4004,
-        4011,
-        4013,
-        4023,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 15,
-       "zeroPairs": 26,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4010,
-        4022,
-        4023,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 14,
-       "zeroPairs": 21,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4011,
-        4013,
-        4021,
-        4023
-       ],
-       "seedHits": 14,
-       "timerHits": 13,
-       "zeroPairs": 32,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4012,
-        4013,
-        4014,
-        4021,
-        4023
-       ],
-       "seedHits": 14,
-       "timerHits": 11,
-       "zeroPairs": 25,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4010,
-        4013,
-        4014,
-        4021
-       ],
-       "seedHits": 14,
-       "timerHits": 9,
-       "zeroPairs": 16,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4010,
-        4012,
-        4013,
-        4022,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 8,
-       "zeroPairs": 16,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4001,
-        4011,
-        4013,
-        4021,
-        4024
-       ],
-       "seedHits": 14,
-       "timerHits": 6,
-       "zeroPairs": 18,
-       "nRows": 5,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4020,
-        4021,
-        4023
-       ],
-       "seedHits": 13,
-       "timerHits": 17,
-       "zeroPairs": 36,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4022,
-        4023
-       ],
-       "seedHits": 13,
-       "timerHits": 16,
-       "zeroPairs": 37,
-       "nRows": 4,
-       "robust": false
-      },
-      {
-       "pack": [
-        4013,
-        4014,
-        4021,
-        4023,
-        4024
-       ],
-       "seedHits": 13,
-       "timerHits": 16,
-       "zeroPairs": 36,
-       "nRows": 4,
-       "robust": false
-      }
-     ]
-    },
     "(('earth', 3), ('fire', 1), ('water', 1))": {
      "grid": [
       4,
@@ -22332,6 +20918,1417 @@
        "timerHits": 1258,
        "zeroPairs": 11488,
        "nRows": 57,
+       "robust": false
+      }
+     ]
+    },
+    "(('earth', 2), ('fire', 1), ('water', 2))": {
+     "grid": [
+      15,
+      30
+     ],
+     "n_total": 2213,
+     "n_robust": 0,
+     "n_selected": 100,
+     "teams": [
+      {
+       "pack": [
+        4002,
+        4012,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 46,
+       "zeroPairs": 690,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4020,
+        4021,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 44,
+       "zeroPairs": 576,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4020,
+        4021,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 41,
+       "zeroPairs": 577,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 38,
+       "zeroPairs": 570,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 30,
+       "timerHits": 38,
+       "zeroPairs": 476,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4020,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 35,
+       "zeroPairs": 487,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 34,
+       "zeroPairs": 510,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 34,
+       "zeroPairs": 510,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 30,
+       "timerHits": 34,
+       "zeroPairs": 396,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 34,
+       "zeroPairs": 337,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4021,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 29,
+       "zeroPairs": 299,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 30,
+       "timerHits": 28,
+       "zeroPairs": 171,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 26,
+       "zeroPairs": 248,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 26,
+       "zeroPairs": 209,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4012,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 23,
+       "zeroPairs": 83,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 21,
+       "zeroPairs": 235,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4012,
+        4014,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 20,
+       "zeroPairs": 112,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 19,
+       "zeroPairs": 271,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4013,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 30,
+       "timerHits": 18,
+       "zeroPairs": 66,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4011,
+        4023,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 16,
+       "zeroPairs": 62,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 15,
+       "zeroPairs": 132,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4013,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 30,
+       "timerHits": 15,
+       "zeroPairs": 59,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4013,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 13,
+       "zeroPairs": 148,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 10,
+       "zeroPairs": 150,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 10,
+       "zeroPairs": 150,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4010,
+        4012,
+        4013,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 10,
+       "zeroPairs": 97,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4020,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 9,
+       "zeroPairs": 64,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 8,
+       "zeroPairs": 120,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 8,
+       "zeroPairs": 71,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4013,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 7,
+       "zeroPairs": 61,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 7,
+       "zeroPairs": 57,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4020,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 7,
+       "zeroPairs": 40,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4013,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 6,
+       "zeroPairs": 90,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4020,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 6,
+       "zeroPairs": 42,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4020,
+        4021,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 4,
+       "zeroPairs": 60,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4014,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 4,
+       "zeroPairs": 60,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4014,
+        4020,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 4,
+       "zeroPairs": 60,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4011,
+        4013,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 4,
+       "zeroPairs": 60,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4014,
+        4020,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4010,
+        4011,
+        4020
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4011,
+        4013,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4010,
+        4013,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4011,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4013,
+        4020,
+        4022,
+        4024
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4020,
+        4021,
+        4022
+       ],
+       "seedHits": 30,
+       "timerHits": 2,
+       "zeroPairs": 30,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4020,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 48,
+       "zeroPairs": 609,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4020,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 46,
+       "zeroPairs": 552,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4020,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 46,
+       "zeroPairs": 551,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 44,
+       "zeroPairs": 533,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4020,
+        4021,
+        4023,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 41,
+       "zeroPairs": 456,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 39,
+       "zeroPairs": 390,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 38,
+       "zeroPairs": 426,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 38,
+       "zeroPairs": 394,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4020,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 38,
+       "zeroPairs": 364,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 36,
+       "zeroPairs": 437,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4014,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 36,
+       "zeroPairs": 395,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 36,
+       "zeroPairs": 344,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 36,
+       "zeroPairs": 332,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 34,
+       "zeroPairs": 390,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 29,
+       "timerHits": 34,
+       "zeroPairs": 334,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4011,
+        4021,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 29,
+       "zeroPairs": 100,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4011,
+        4013,
+        4021,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 24,
+       "zeroPairs": 66,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4003,
+        4004,
+        4011,
+        4013,
+        4021
+       ],
+       "seedHits": 29,
+       "timerHits": 19,
+       "zeroPairs": 81,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4013,
+        4022,
+        4024
+       ],
+       "seedHits": 29,
+       "timerHits": 2,
+       "zeroPairs": 29,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4011,
+        4020,
+        4022,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 42,
+       "zeroPairs": 468,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4020,
+        4021,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 41,
+       "zeroPairs": 410,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 39,
+       "zeroPairs": 268,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 38,
+       "zeroPairs": 326,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4011,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 38,
+       "zeroPairs": 280,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 38,
+       "zeroPairs": 246,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 35,
+       "zeroPairs": 326,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4014,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 34,
+       "zeroPairs": 316,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 34,
+       "zeroPairs": 309,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4014,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 33,
+       "zeroPairs": 238,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 30,
+       "zeroPairs": 251,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 29,
+       "zeroPairs": 192,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4011,
+        4020,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 24,
+       "zeroPairs": 231,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 23,
+       "zeroPairs": 181,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 28,
+       "timerHits": 22,
+       "zeroPairs": 113,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 28,
+       "timerHits": 20,
+       "zeroPairs": 140,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4013,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 27,
+       "timerHits": 36,
+       "zeroPairs": 84,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 27,
+       "timerHits": 33,
+       "zeroPairs": 243,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4012,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 27,
+       "timerHits": 32,
+       "zeroPairs": 187,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4014,
+        4020,
+        4021,
+        4023
+       ],
+       "seedHits": 27,
+       "timerHits": 30,
+       "zeroPairs": 245,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4012,
+        4023,
+        4024
+       ],
+       "seedHits": 27,
+       "timerHits": 28,
+       "zeroPairs": 61,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 27,
+       "timerHits": 26,
+       "zeroPairs": 121,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4013,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 27,
+       "timerHits": 24,
+       "zeroPairs": 104,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4012,
+        4023,
+        4024
+       ],
+       "seedHits": 27,
+       "timerHits": 13,
+       "zeroPairs": 38,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4021,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 26,
+       "timerHits": 26,
+       "zeroPairs": 167,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4012,
+        4021,
+        4023,
+        4024
+       ],
+       "seedHits": 25,
+       "timerHits": 24,
+       "zeroPairs": 118,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4011,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 25,
+       "timerHits": 24,
+       "zeroPairs": 107,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4000,
+        4013,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 25,
+       "timerHits": 19,
+       "zeroPairs": 58,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4004,
+        4011,
+        4013,
+        4021
+       ],
+       "seedHits": 25,
+       "timerHits": 13,
+       "zeroPairs": 59,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4010,
+        4011,
+        4021,
+        4024
+       ],
+       "seedHits": 25,
+       "timerHits": 4,
+       "zeroPairs": 28,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4021,
+        4023,
+        4024
+       ],
+       "seedHits": 24,
+       "timerHits": 25,
+       "zeroPairs": 98,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 24,
+       "timerHits": 22,
+       "zeroPairs": 116,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4002,
+        4021,
+        4022,
+        4023
+       ],
+       "seedHits": 23,
+       "timerHits": 22,
+       "zeroPairs": 99,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4002,
+        4003,
+        4021,
+        4023,
+        4024
+       ],
+       "seedHits": 23,
+       "timerHits": 21,
+       "zeroPairs": 91,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4003,
+        4010,
+        4021,
+        4024
+       ],
+       "seedHits": 23,
+       "timerHits": 12,
+       "zeroPairs": 54,
+       "nRows": 2,
+       "robust": false
+      },
+      {
+       "pack": [
+        4001,
+        4014,
+        4022,
+        4023,
+        4024
+       ],
+       "seedHits": 22,
+       "timerHits": 17,
+       "zeroPairs": 40,
+       "nRows": 2,
        "robust": false
       }
      ]
